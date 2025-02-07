@@ -31,6 +31,15 @@
 - [Shrabanti Debnath Urmi](https://github.com/Shrabanti94)
 
 ---
+
+
+## Using Technology
+
+- Swift
+- Telegram API for messaging
+- Firebase for database
+- Newspaper API for JSON data
+---
 <div style="display: flex;">
     <img src="https://github.com/Sk-Azraf-Sami/Blood-Bank/blob/main/Images/1.jpeg" alt="Image 1" width="30%" style="margin-right: 20px;">
     <img src="https://github.com/Sk-Azraf-Sami/Blood-Bank/blob/main/Images/2.jpeg" alt="Image 2" width="30%" style="margin-right: 20px;">
@@ -63,11 +72,4 @@
 </div>
 
 
-## Using Technology
-
-- Swift
-- Telegram API for messaging
-- Firebase for database
-- Newspaper API for JSON data
----
 
